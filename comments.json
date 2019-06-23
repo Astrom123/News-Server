@@ -1,0 +1,26 @@
+{
+	"comments": [
+		{
+			"id": 1,
+			"news_id": 1,
+			"title": "comment_1",
+			"date": "2019-01-02T21:58:25",
+			"comment": "Comment"
+		},
+		{
+			"id": 2,
+			"news_id": 2,
+			"title": "comment_2",
+			"date": "2019-01-02T21:58:25",
+			"comment": "Comment"
+		},
+		{
+			"id": 3,
+			"news_id": 1,
+			"title": "comment_3",
+			"date": "2019-01-02T20-:50:25",
+			"comment": "Comment"
+		}
+	],
+	"comments_count": 2
+}

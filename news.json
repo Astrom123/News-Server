@@ -1,0 +1,33 @@
+{  
+	"news":[  
+		{  
+			"id":1,
+			"title":"news_1",
+			"date":"2019-01-01T20:56:35",
+			"body":"The news",
+			"deleted":false
+		},
+		{  
+			"id":2,
+			"title":"news_2",
+			"date":"2019-01-01T20:54:35",
+			"body":"The news",
+			"deleted":false
+		},
+		{  
+			"id":3,
+			"title":"news_3",
+			"date":"2019-01-01T20:54:35",
+			"body":"The news",
+			"deleted":true
+		},
+		{  
+			"id":3,
+			"title":"news_3",
+			"date":"2020-01-01T20:54:35",
+			"body":"The news",
+			"deleted":false
+		}
+	],
+	"news_count":2
+}
