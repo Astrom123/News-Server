@@ -54,6 +54,9 @@ class TestServer(unittest.TestCase):
         self.assertEqual(response.getcode(), 404)
         self.assertEqual(response.read().decode(), "")
 
+    def test_len_news(self):
+        self.assertEqual(self.news["news_count"], len(self.news["news"]))
+
 
 if __name__ == '__main__':
     unittest.main()
